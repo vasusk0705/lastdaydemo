@@ -21,6 +21,6 @@ public static void main(String[] args) throws Throwable
 	WebElement w  = boyfriend.findElement(By.linkText("Forgot Password?"));
 		w.click();
 	//boyfriend.findElement(By.partialLinkText("Forg")).click();
-	System.out.println("Wish you all the best automation stars");
+	System.out.println("Wish you all the best automation stars Pranya Manasa Naveen Naz Sreelakshmi");
 }
 }
