@@ -19,7 +19,8 @@ public static void main(String[] args) throws Throwable
 	
 	boyfriend.get("https://adactin.com/HotelApp/index.php");
 	WebElement w  = boyfriend.findElement(By.linkText("Forgot Password?"));
-	w.click();
+		w.click();
 	//boyfriend.findElement(By.partialLinkText("Forg")).click();
+	System.out.println("Wish you all the best automation stars");
 }
 }
